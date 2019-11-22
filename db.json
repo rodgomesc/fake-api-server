@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "origem": 11,
+      "destino": 16,
+      "tarifa": 1.9
+    },
+    {
+      "id": 2,
+      "origem": 16,
+      "destino": 11,
+      "tarifa": 2.9
+    },
+    {
+      "id": 3,
+      "origem": 11,
+      "destino": 17,
+      "tarifa": 1.7
+    },
+    {
+      "id": 4,
+      "origem": 17,
+      "destino": 11,
+      "tarifa": 2.7
+    },
+    {
+      "id": 5,
+      "origem": 11,
+      "destino": 18,
+      "tarifa": 0.9
+    },
+    {
+      "id": 6,
+      "origem": 18,
+      "destino": 11,
+      "tarifa": 1.9
+    }
+  ]
+}
