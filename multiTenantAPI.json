@@ -1,0 +1,13 @@
+{
+  "userCode": "312523213435231",
+  "logo": "logo-egesp-gyn.png",
+  "customer": "Goiania",
+  "dashboardMenu": {
+    "Ferias": true,
+    "ContraCheque": false,
+    "Notificacoes": false,
+    "Saude": true,
+    "MenuE": false,
+    "MenuF": false
+  }
+}
